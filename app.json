@@ -1,6 +1,6 @@
 {
-  "name": "CloudBot",
-  "description": "Customizable WhatsApp Bot",
+  "name": "HelloBot",
+  "description": "Customizable WhatsApp Bot by.kira",
   "repository": "https://github.com/lordlightness/Cloud-Bot-Whatsapp-Multi-Device",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["bot", "whatsapp", "whatsapp-bot", "rpg", "games-wabot", "epic rpg"],
@@ -9,10 +9,10 @@
         "NOWNER": {
             "description": "Nomer Owner",
             "required": true,
-            "value": "6281224863098"
+            "value": "6285719651946"
         },
         "NAMAOWNER": {
-            "description": "Nama Owner",
+            "description": "kira",
             "required": true,
             "value": "Dellas"
         },
@@ -32,14 +32,14 @@
             "value": "https://chat.whatsapp.com/Bx5aAxINL4hBLt6MxaK5xB"
         },
         "PACKNAME": {
-            "description": "Packname sticker",
+            "description": "Sticker maker",
             "required": true,
-            "value": "Created by"
+            "value": "Created by kira"
         },
         "AUTHOR": {
-            "description": "Author Bot (WM)",
+            "description": "Author Bot (kira)",
             "required": true,
-            "value": "CloudBot"
+            "value": "HelloBot"
         },
         "MODERATOR": {
             "description": "Moderator Bot",
@@ -47,7 +47,7 @@
             "value": ""
         },
         "THUMB_MENU": {
-            "description": "Nomer Owner",
+            "description": "+6285719651946",
             "required": true,
             "value": "https://telegra.ph/file/baea4ead668adebdc5073.jpg"
         },
